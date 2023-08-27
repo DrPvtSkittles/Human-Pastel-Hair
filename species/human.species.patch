@@ -1,0 +1,13 @@
+[
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "fbafb4", "a38d59" : "d87b7b", "735e3a" : "b86060" }}, // red
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "ffd6b9", "a38d59" : "daa476", "735e3a" : "b78155" }}, // orange
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "fff4b9", "a38d59" : "d7cb71", "735e3a" : "b4a755" }}, // yellow
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "e3ffb9", "a38d59" : "acd27a", "735e3a" : "7da350" }}, // lime
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "ceffc3", "a38d59" : "92d888", "735e3a" : "6aaf60" }}, // wintergreen
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "b9ffe6", "a38d59" : "7ed3b8", "735e3a" : "5caf95" }}, // teal
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "b9fbff", "a38d59" : "80c8d0", "735e3a" : "59a4ac" }}, // blue
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "b9ddff", "a38d59" : "77a7dd", "735e3a" : "537fb4" }}, // cobalt
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "ccb9ff", "a38d59" : "987dd2", "735e3a" : "7c63b3" }}, // violet
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "e9b9ff", "a38d59" : "c77de2", "735e3a" : "a862c1" }}, // purple
+{"op" : "add", "path" : "/hairColor/-", "value" : { "d9c189" : "ffb9e6", "a38d59" : "e686bd", "735e3a" : "c06298" }} // pink
+]
